@@ -1,5 +1,5 @@
 # Snake_Game
-Build a basic snake game using c++.
+Build a basic snake game using C.
 here we are making snake game that will work by the buttons: W, A, S, D  and here :
 W : forward
 A : left
